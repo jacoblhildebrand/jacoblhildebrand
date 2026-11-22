@@ -11,7 +11,7 @@ I'm Jacob, a student at Brigham Young University-Idaho interested in Cybersecuri
 
 ## Technologies and Tools
 
-- Proficient in: HTML, CSS, JavaScript
+- Proficient in: HTML, CSS, JavaScript, Python
 - Skills: 
 
 ## Let's Connect!
