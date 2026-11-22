@@ -16,7 +16,7 @@ I'm Jacob, a student at Brigham Young University-Idaho interested in Cybersecuri
 
 ## Projects
 
--https://github.com/daildubath/ParentControl
+- https://github.com/daildubath/ParentControl
 
 ## Let's Connect!
 
