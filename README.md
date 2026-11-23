@@ -2,12 +2,12 @@
 
 Hello, GitHub! 👋
 
-I'm Jacob, a student at Brigham Young University-Idaho interested in Cybersecurity mainly, but I like to dabble in a little bit of whatever I can. Welcome to my GitHub profile!
+I'm Jacob, a student and Employee at Brigham Young University-Idaho interested in Cybersecurity mainly, but I like to dabble in a little bit of whatever I can. Welcome to my GitHub profile!
 
 ## About Me
 
 - I'm currently learning about Active Directories and Network Structure.
-- My goals are to continue learning as much as I can about Cybersecurity
+- My goals are to continue learning as much as I can about Cybersecurity and gain as experience in the IT field as I can.
 
 ## Technologies and Tools
 
@@ -20,7 +20,7 @@ I'm Jacob, a student at Brigham Young University-Idaho interested in Cybersecuri
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] https://www.linkedin.com/in/jacob-l-hildebrand/ profile
+- Here is my [LinkedIn] https://www.linkedin.com/in/jacob-l-hildebrand/
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
