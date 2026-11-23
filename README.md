@@ -6,7 +6,7 @@ I'm Jacob, a student at Brigham Young University-Idaho interested in Cybersecuri
 
 ## About Me
 
-- I'm currently learning about Cloud Technologies.
+- I'm currently learning about Active Directories and Network Structure.
 - My goals are to continue learning as much as I can about Cybersecurity
 
 ## Technologies and Tools
